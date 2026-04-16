@@ -2,7 +2,7 @@
 
 ## Workflow
 
-![Global production workflow]([workflowpng](https://raw.githubusercontent.com/altomator/GI/refs/heads/main/images/workflow.png))
+![Global production workflow](images/workflow.png)
 
 ## Demonstrator
 
