@@ -8,7 +8,7 @@
 
 ### Query = image
 
-![Query with images](images/embedding.png)
+![Query with images](images/embedding_image.png)
 
 ### Query = text
 
@@ -16,3 +16,16 @@
 
 ![paysage_montagne_riviere](images/paysage_montagne_riviere.png)
 
+```a poster of a seascape```
+
+![paysage_montagne_riviere](images/affiche_paysage_maritime.png)
+
+### Facets
+
+```a fisherman with a net```
+
+![paysage_montagne_riviere](images/pecheur_filet.png)
+
+```a fisherman with a net``` + ```technique=picture```
+
+![paysage_montagne_riviere](images/pecheur_filet_photo.png)
