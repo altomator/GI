@@ -20,7 +20,7 @@
 
 ![paysage_montagne_riviere](images/affiche_paysage_maritime.png)
 
-### Facets
+### Faceted search
 
 ```a fisherman with a net```
 
