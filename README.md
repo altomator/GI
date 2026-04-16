@@ -2,7 +2,7 @@
 
 ## Workflow
 
-![Global production workflow](https://myoctocat.com/assets/images/workflow.png)
+![Global production workflow]([workflowpng](https://raw.githubusercontent.com/altomator/GI/refs/heads/main/images/workflow.png))
 
 ## Demonstrator
 
